@@ -1394,7 +1394,7 @@ $( "p" ).each(function( index ) {
 });
 
 
-$(".social").append('<li><a class="gg-news" href="https://news.google.com/publications/CAAqBwgKMNWL0QswlKfoAw?hl=vi&gl=VN&ceid=VN:vi" target="_blank"><span>Báo Đồng Nai trên</span><img src="https://baodongnai.com.vn/common/v1/images/gg_new.svg" alt="Google News" style="width: 100px"></a></li>')
+$(".social").append('<li><a class="gg-news" href="https://news.google.com/publications/CAAqBwgKMNWL0QswlKfoAw?hl=vi&gl=VN&ceid=VN:vi" target="_blank"><span>Báo thể thao trên</span><img src="https://baodongnai.com.vn/common/v1/images/gg_new.svg" alt="Google News" style="width: 100px"></a></li>')
 
 $( "td.desc" ).each(function( index ) {
 	if($(this).html() == '&nbsp;') $(this).hide();
